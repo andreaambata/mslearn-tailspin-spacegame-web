@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/andreaambata/Azure%20DevOps%20Upskilling/_apis/build/status%2Fandreaambata.mslearn-tailspin-spacegame-web?branchName=refs%2Fpull%2F4%2Fmerge)](https://dev.azure.com/andreaambata/Azure%20DevOps%20Upskilling/_build/latest?definitionId=4&branchName=refs%2Fpull%2F4%2Fmerge)
 
 # Contributing
 
