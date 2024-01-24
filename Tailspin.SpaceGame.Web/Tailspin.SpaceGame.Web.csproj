@@ -13,8 +13,8 @@
   <PackageReference Include="Tailspin.SpaceGame.Web.Models" Version="1.0.0-CI-20200610-165738" />
 </ItemGroup>
 
-  <ItemGroup>
-  <PackageReference Include="Tailspin.SpaceGame.Web.Models" Version="1.0.0-CI-20240123-093734" />
+<ItemGroup>
+  <PackageReference Include="Tailspin.SpaceGame.Web.Models" Version="1.1.0-CI-20240124-012636" />
 </ItemGroup>
 
   <ItemGroup>
